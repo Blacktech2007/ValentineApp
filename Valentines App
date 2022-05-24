@@ -1,0 +1,9 @@
+The the frontend and the backend is developed in ymal and the data is stored in DataSource folder.
+
+If you want to edit the code, you can directly edit the code and save it.
+
+How to run the App
+
+1. Download the ValentineV3.msapp file.
+2. Open the MSAPP file in Microsoft PowerApps Studio (Web). To do so, open Power Apps Studio and select Open → Browse. 
+Then, navigate to and open your MSAPP file.
